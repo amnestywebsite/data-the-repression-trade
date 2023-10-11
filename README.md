@@ -7,6 +7,7 @@
 ### Data collection methodology: 
 
 Amnesty International’s Crisis Evidence Lab and the Digital Verification Corps analysed more than 500 images and videos from protests from 2017 to 2023, verifying more than 100 incidents where police officers deployed law enforcement equipment and hunting ammunition unlawfully. Using open-source techniques and weapons analysis, corroborated with trade data, previous Amnesty International research and reports from other organizations, Amnesty International also identified 23 major producers of less lethal and other equipment whose goods were used unlawfully in more than 50 protests in 25 countries worldwide. While it is not always possible to trace precise chains of custody for specific types of weapons, this evidence strongly indicates longstanding patterns of irresponsible trade in both equipment designed for law enforcement and hunting ammunition.
+
 The data below represents a selection of cases investigated by Amnesty International where photographic evidence is available. This repository includes both the dataset of events and the images we published in our web report. 
 
 ### Contact information:
