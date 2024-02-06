@@ -36,4 +36,11 @@ Milena Marin, milena.marin@amnesty.org
 | Source URL 3  |  Additional source URL or photographic evidence. | 
 | Source URL 4  |  Additional source URL or photographic evidence. | 
 
+
+### Want to know more about the work in other Amnesty GitHub accounts?
+
+You can find repositories from other teams such as [Amnesty Web Ops](https://github.com/amnestywebsite), [Amnesty Crisis](https://github.com/amnesty-crisis-evidence-lab), [Amnesty Tech](https://github.com/AmnestyTech) and [Amnesty Research](https://github.com/amnestyresearch/) in their GitHub accounts
+
+![AmnestyWebsiteFooter](https://wordpresstheme.amnesty.org/wp-content/uploads/2024/02/footer.gif)
+
  
